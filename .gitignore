@@ -1,1 +1,3 @@
 .vscode/launch.json
+basics/locTracker.py
+basics/serial_number.txt
