@@ -1,3 +1,104 @@
 .vscode/launch.json
 basics/locTracker.py
 basics/serial_number.txt
+bloodbankmanagement-master/.gitignore
+bloodbankmanagement-master/manage.py
+bloodbankmanagement-master/README.md
+bloodbankmanagement-master/requirements.txt
+bloodbankmanagement-master/blood/__init__.py
+bloodbankmanagement-master/blood/admin.py
+bloodbankmanagement-master/blood/apps.py
+bloodbankmanagement-master/blood/forms.py
+bloodbankmanagement-master/blood/models.py
+bloodbankmanagement-master/blood/tests.py
+bloodbankmanagement-master/blood/views.py
+bloodbankmanagement-master/blood/migrations/__init__.py
+bloodbankmanagement-master/blood/migrations/0001_initial.py
+bloodbankmanagement-master/blood/migrations/0002_bloodrequest.py
+bloodbankmanagement-master/blood/migrations/0003_auto_20210213_1053.py
+bloodbankmanagement-master/blood/migrations/0004_bloodrequest_date.py
+bloodbankmanagement-master/bloodbankmanagement/__init__.py
+bloodbankmanagement-master/bloodbankmanagement/asgi.py
+bloodbankmanagement-master/bloodbankmanagement/settings.py
+bloodbankmanagement-master/bloodbankmanagement/urls.py
+bloodbankmanagement-master/bloodbankmanagement/wsgi.py
+bloodbankmanagement-master/donor/__init__.py
+bloodbankmanagement-master/donor/admin.py
+bloodbankmanagement-master/donor/apps.py
+bloodbankmanagement-master/donor/forms.py
+bloodbankmanagement-master/donor/models.py
+bloodbankmanagement-master/donor/tests.py
+bloodbankmanagement-master/donor/urls.py
+bloodbankmanagement-master/donor/views.py
+bloodbankmanagement-master/donor/migrations/__init__.py
+bloodbankmanagement-master/donor/migrations/0001_initial.py
+bloodbankmanagement-master/donor/migrations/0002_auto_20210213_1602.py
+bloodbankmanagement-master/patient/__init__.py
+bloodbankmanagement-master/patient/admin.py
+bloodbankmanagement-master/patient/apps.py
+bloodbankmanagement-master/patient/forms.py
+bloodbankmanagement-master/patient/models.py
+bloodbankmanagement-master/patient/tests.py
+bloodbankmanagement-master/patient/urls.py
+bloodbankmanagement-master/patient/views.py
+bloodbankmanagement-master/patient/migrations/__init__.py
+bloodbankmanagement-master/patient/migrations/0001_initial.py
+bloodbankmanagement-master/screenshot/AdminDashboard/Admin Dashboard Interface.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Blood Request History Page.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Blood Request Page.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Blood Stock Page.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Donations Page.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Donor Page.png
+bloodbankmanagement-master/screenshot/AdminDashboard/Patient Page.png
+bloodbankmanagement-master/screenshot/DonorDashboard/Blood Request Page.png
+bloodbankmanagement-master/screenshot/DonorDashboard/Donate Blood Page.png
+bloodbankmanagement-master/screenshot/DonorDashboard/Donation History Page.png
+bloodbankmanagement-master/screenshot/DonorDashboard/Donor Dashboard Page.png
+bloodbankmanagement-master/screenshot/DonorDashboard/Request History Page.png
+bloodbankmanagement-master/screenshot/PatientDahsboard/Donor Dashboard.png
+bloodbankmanagement-master/screenshot/PatientDahsboard/Make Request Page.png
+bloodbankmanagement-master/screenshot/PatientDahsboard/Request History Page.png
+bloodbankmanagement-master/static/css/main.css
+bloodbankmanagement-master/static/css/main.min.css
+bloodbankmanagement-master/static/image/homepage.jpg
+bloodbankmanagement-master/static/image/homepage.png
+bloodbankmanagement-master/static/image/logout.png
+bloodbankmanagement-master/static/profile_pic/Donor/SG_1Jd5uC7.jpg
+bloodbankmanagement-master/static/profile_pic/Donor/SG_O2HFN31.jpg
+bloodbankmanagement-master/static/profile_pic/Donor/SG.jpg
+bloodbankmanagement-master/static/profile_pic/Patient/artwork2.jpg
+bloodbankmanagement-master/static/profile_pic/Patient/patBate_bsOmK7b.jpg
+bloodbankmanagement-master/static/profile_pic/Patient/patBate.jpg
+bloodbankmanagement-master/static/profile_pic/Patient/R.jpg
+bloodbankmanagement-master/static/vendor/select2/select2.min.css
+bloodbankmanagement-master/static/vendor/select2/select2.min.js
+bloodbankmanagement-master/templates/blood/admin_blood.html
+bloodbankmanagement-master/templates/blood/admin_dashboard.html
+bloodbankmanagement-master/templates/blood/admin_donation.html
+bloodbankmanagement-master/templates/blood/admin_donor.html
+bloodbankmanagement-master/templates/blood/admin_patient.html
+bloodbankmanagement-master/templates/blood/admin_request_history.html
+bloodbankmanagement-master/templates/blood/admin_request.html
+bloodbankmanagement-master/templates/blood/adminbase.html
+bloodbankmanagement-master/templates/blood/adminlogin.html
+bloodbankmanagement-master/templates/blood/footer.html
+bloodbankmanagement-master/templates/blood/index.html
+bloodbankmanagement-master/templates/blood/logout.html
+bloodbankmanagement-master/templates/blood/navbar.html
+bloodbankmanagement-master/templates/blood/update_donor.html
+bloodbankmanagement-master/templates/blood/update_patient.html
+bloodbankmanagement-master/templates/donor/donate_blood.html
+bloodbankmanagement-master/templates/donor/donation_history.html
+bloodbankmanagement-master/templates/donor/donor_dashboard.html
+bloodbankmanagement-master/templates/donor/donorbase.html
+bloodbankmanagement-master/templates/donor/donorlogin.html
+bloodbankmanagement-master/templates/donor/donorsignup.html
+bloodbankmanagement-master/templates/donor/makerequest.html
+bloodbankmanagement-master/templates/donor/request_history.html
+bloodbankmanagement-master/templates/patient/makerequest.html
+bloodbankmanagement-master/templates/patient/my_request.html
+bloodbankmanagement-master/templates/patient/patient_dashboard.html
+bloodbankmanagement-master/templates/patient/patientbase.html
+bloodbankmanagement-master/templates/patient/patientlogin.html
+bloodbankmanagement-master/templates/patient/patientsignup.html
+bloodbankmanagement-master.rar
